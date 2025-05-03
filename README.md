@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/Neggy5">
-    <img alt="OT-s-Bot logo"  src="https://files.fm/u/ujzqj622vz">
+    <img alt="OT-s-Bot logo"  src="https://files.catbox.moe/mdaetg.jpg">
   </a>
 </p>
 
