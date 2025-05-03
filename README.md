@@ -1,9 +1,9 @@
 # OT-s-Bot
-<a><img src='https://imgur.com/a/Lxx4dXx'/></a><a><img  src='https://imgur.com/a/Lxx4dXx'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="left">
   <a href="https://github.com/Neggy5">
-    <img alt="OT-s-Bot logo"  src="https://files.catbox.moe/y7yry1.jpg">
+    <img alt="OT-s-Bot logo"  src="https://files.fm/u/ujzqj622vz">
   </a>
 </p>
 
